@@ -25,5 +25,7 @@ It was also important to note that a borrower's chances of receiving a larger lo
 
 ## Key Insights for Presentation
 
-I would just concentrate on the various reasons people take out loans and the factors that affect their chance of getting a loan for my insight. To gain a basic understanding of who makes up the population, their occupations, and the states, I would start by looking at the demography of the debtors.
-
+Most of Prospers' clients have at least some form of income, with the bulk of them being employed or full-time workers.
+Homeowners have a modest advantage over non-homeowners when it comes to loans with lengthier payback terms; on average, home owners receive $2,000 more than non-homeowners.
+Taking out larger loans with a longer repayment period is more cost-effective than taking out smaller loans with shorter repayment periods, which are more expensive because higher interest rates are used.
+Customers who take out larger loans prefer longer repayment terms, whilst those who take out smaller loans prefer shorter terms.
